@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A student of IoT, Big Data and Web in Università di Udine</h3>
 
-<p align="left"> <a href="https://twitter.com/_daniele_99_" target="blank"><img src="https://img.shields.io/twitter/follow/_daniele_99_?logo=twitter&style=for-the-badge" alt="_daniele_99_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_daniele_99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_daniele_99_" height="30" width="40" /></a>
